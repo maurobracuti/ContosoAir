@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/maurobracuti/TestPipelines/_apis/build/status/maurobracuti.ContosoAir?branchName=master)](https://dev.azure.com/maurobracuti/TestPipelines/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
